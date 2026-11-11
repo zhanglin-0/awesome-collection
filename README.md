@@ -106,6 +106,21 @@
 | [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) | ★1.4k | 开源 AI 逆向 Agent 平台 |
 | [AIshihzong/awesome-reverse-engineer-anything](https://github.com/AIshihzong/awesome-reverse-engineer-anything) | ★636 | Awesome REA：AI 逆向的真实案例合集 |
 
+
+## 🔓 越狱版模型（HuggingFace · 模型本体不在这）
+
+> GitHub 上只有工具和数据集，**模型本体都在 HuggingFace**，作者是 [huihui-ai](https://huggingface.co/huihui-ai)。
+
+| 模型 | 链接 | 6GB 显存能跑吗 |
+| --- | --- | --- |
+| **Qwen3-8B abliterated**（千问越狱版） | [huggingface.co/huihui-ai/Qwen3-8B-abliterated](https://huggingface.co/huihui-ai/Qwen3-8B-abliterated) | ✅ Q4 量化约 5GB |
+| **DeepSeek-R1-Distill-Qwen-7B abliterated v2** | [huggingface.co/huihui-ai/DeepSeek-R1-Distill-Qwen-7B-abliterated-v2](https://huggingface.co/huihui-ai/DeepSeek-R1-Distill-Qwen-7B-abliterated-v2) | ✅ Q4 量化约 4.5GB |
+| Qwen3.8-27B abliterated（GGUF） | [huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF](https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF) | ❌ 需要 16GB+ |
+| DeepSeek-V4-Flash abliterated（GGUF） | [huggingface.co/huihui-ai/Huihui-DeepSeek-V4-Flash-abliterated-ds4-GGUF](https://huggingface.co/huihui-ai/Huihui-DeepSeek-V4-Flash-abliterated-ds4-GGUF) | ❌ 需要大显存 |
+| huihui-ai 全部模型 | [huggingface.co/huihui-ai](https://huggingface.co/huihui-ai) | — |
+
+> 用法：装 [Ollama](https://ollama.com) 后直接 `ollama run huihui_ai/<模型名>`，或下载 GGUF 用 LM Studio / llama.cpp 跑。
+
 ## 💻 编程 / 开发工具
 
 | 项目 | 星数 | 说明 |
