@@ -57,6 +57,39 @@
 | --- | --- | --- |
 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ★459.0k | 全站星数最多的项目，免费学编程 |
 
+
+## ✍️ 小说写作 / 仿写
+
+| 项目 | 星数 | 说明 |
+| --- | --- | --- |
+| [PenglongHuang/chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) | ★4.8k | AI 从零生成 10-50 章中文小说，适合长篇网文 |
+| [BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer) | ★3.9k | 中文网文生成模型（玄幻 / 言情） |
+| [ExplosiveCoderflome/AI-Novel-Writing-Assistant](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant) | ★3.4k | 长篇小说创作系统：世界观 + 写法引擎 + RAG |
+| [EthanYoQ/Pagekin](https://github.com/EthanYoQ/Pagekin) | ★2.6k | 小说写作软件，支持**拆解仿写**、续写、改写、审稿 |
+
+## 🔧 逆向工程 / 反编译
+
+| 项目 | 星数 | 说明 |
+| --- | --- | --- |
+| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | ★99.5k | NSA 开源的反汇编 / 反编译框架，分析 exe、固件 |
+| [skylot/jadx](https://github.com/skylot/jadx) | ★51.8k | 把 Android APK 反编译成 Java 源码 |
+| [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) | ★27.2k | APK 拆包 / 重打包工具 |
+| [radareorg/radare2](https://github.com/radareorg/radare2) | ★25.4k | 命令行逆向工程框架 |
+| [rizinorg/cutter](https://github.com/rizinorg/cutter) | ★20.2k | radare2 的图形界面版，新手友好 |
+| [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) | ★14.7k | 固件分析与解包 |
+| [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) | ★11.5k | .NET 程序反编译 / 调试 |
+
+## 🔓 越狱 / 无审查模型（研究 & 红队向）
+
+| 项目 | 星数 | 说明 |
+| --- | --- | --- |
+| [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) | ★4.9k | GCG 通用越狱攻击的论文代码 |
+| [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) | ★3.9k | 15,140 条越狱 prompt 数据集（CCS'24） |
+| [JailbreakBench/jailbreakbench](https://github.com/JailbreakBench/jailbreakbench) | ★696 | 越狱鲁棒性评测基准 |
+| [Orion-zhen/abliteration](https://github.com/Orion-zhen/abliteration) | ★202 | 一键制作「去审查」模型（abliteration） |
+
+> 模型本体大多在 HuggingFace，搜 `uncensored` / `abliterated` 就能找到。仅供研究与安全测试使用。
+
 ---
 
 > 收藏原则：**星多、更新勤、README 清楚**。三个都满足才值得动手试。
