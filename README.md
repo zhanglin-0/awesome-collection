@@ -9,7 +9,7 @@
 | [langgenius/dify](https://github.com/langgenius/dify) | ★160.9k | 可视化搭 AI 应用和工作流，中文文档全，最适合上手 |
 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ★149.3k | 写 AI 应用最流行的框架，生态最大 |
 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | ★94.0k | 把文档变成可问答的知识库（RAG 检索增强） |
-| [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) | ★85.0k | 好看好用的 AI 聊天界面，可自己部署 |
+| [lobehub/lobehub](https://github.com/lobehub/lobehub) | ★85.0k | 好看好用的 AI 聊天界面，可自己部署 |
 | [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | ★17.7k | 开源自主 AI Agent 框架 |
 
 ## ✍️ 写作 / 文本处理
@@ -43,7 +43,7 @@
 
 | 项目 | 星数 | 说明 |
 | --- | --- | --- |
-| [facebook/react](https://github.com/facebook/react) | ★252.5k | 前端最主流的 UI 框架 |
+| [facebook/react](https://github.com/react/react) | ★252.5k | 前端最主流的 UI 框架 |
 
 ## 📊 数据分析
 
