@@ -95,6 +95,17 @@
 
 > 模型本体大多在 HuggingFace，搜 `uncensored` / `abliterated`。仅供研究与安全测试使用。
 
+
+## 🤖 AI 逆向工程（REA 生态）
+
+| 项目 | 星数 | 说明 |
+| --- | --- | --- |
+| [morluto/rea](https://github.com/morluto/rea) | ★451.2k | **REA：Reverse Engineer Anything**，给 AI 装一套逆向工程工具，本地分析 |
+| [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | ★11.9k | MCP 服务：让 AI 直接驱动 Ghidra 反编译 |
+| [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp) | ★6.2k | 200+ MCP 工具，AI 逆向增强版 |
+| [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) | ★1.4k | 开源 AI 逆向 Agent 平台 |
+| [AIshihzong/awesome-reverse-engineer-anything](https://github.com/AIshihzong/awesome-reverse-engineer-anything) | ★636 | Awesome REA：AI 逆向的真实案例合集 |
+
 ## 💻 编程 / 开发工具
 
 | 项目 | 星数 | 说明 |
